@@ -10,4 +10,5 @@ This project will help you gain a solid understanding of how to begin building E
 
 ### Full demos of how to start with electron :
 1. try to clone : `git clone https://github.com/electron/electron-api-demos`
-2. `npm i && npm start`
+2. `cd electron-api-demos`
+3. `npm i && npm start`
