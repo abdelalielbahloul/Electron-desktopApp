@@ -1,5 +1,5 @@
 # Electron-desktopApp
-This project will help you gain a solid understanding of how to begin building Electron desktop apps.
+This project will help you gain a solid understanding of how to begin building Electron desktop apps. Is to build an full application using html css and javascript
 
 ## Usage
 + `npm install`
