@@ -1,0 +1,23 @@
+{
+  "name": "electrondesktopapp",
+  "version": "1.0.0",
+  "description": "Build a desktop app using electronjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abdelalielbahloul/Electron-desktopApp.git"
+  },
+  "keywords": [
+    "electron",
+    "javascript"
+  ],
+  "author": "EL BAHLOUL Abdelali",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/abdelalielbahloul/Electron-desktopApp/issues"
+  },
+  "homepage": "https://github.com/abdelalielbahloul/Electron-desktopApp#readme"
+}
