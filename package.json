@@ -1,15 +1,13 @@
 {
   "name": "electrondesktopapp",
   "version": "1.0.0",
-  "description": "Build a desktop app using electronjs",
+  "description": "build an app using electron and javascript",
   "main": "index.js",
   "dependencies": {
-    "electron": "^8.0.3",
-    "monaco-editor": "^0.20.0",
-    "monaco-loader": "^1.0.0"
+    "electron": "^8.0.3"
   },
+  "devDependencies": {},
   "scripts": {
-    "start": "node .",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -18,10 +16,10 @@
   },
   "keywords": [
     "electron",
-    "javascript"
+    "nodejs"
   ],
   "author": "EL BAHLOUL Abdelali",
-  "license": "MIT",
+  "license": "ISC",
   "bugs": {
     "url": "https://github.com/abdelalielbahloul/Electron-desktopApp/issues"
   },
