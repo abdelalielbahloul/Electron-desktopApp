@@ -3,7 +3,13 @@
   "version": "1.0.0",
   "description": "Build a desktop app using electronjs",
   "main": "index.js",
+  "dependencies": {
+    "electron": "^8.0.3",
+    "monaco-editor": "^0.20.0",
+    "monaco-loader": "^1.0.0"
+  },
   "scripts": {
+    "start": "node .",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
